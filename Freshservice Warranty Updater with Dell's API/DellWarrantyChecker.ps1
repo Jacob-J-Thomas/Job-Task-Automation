@@ -30,7 +30,7 @@ foreach ($device in $deviceList) {
 Write-Host $allST
 Start-Sleep -seconds 120
 
-# Authentication function to be used after we get the API key from Dell
+# Possible uthentication function to be used after we get the API key from Dell
 
 # Function Get-OAuthToken()
 # {
